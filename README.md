@@ -15,10 +15,11 @@ and items they like.
 ### Front-end Design
 * HTML/CSS
 * JavaScript
+* AJAX
 ### Back-end Design
 * MySQL Server(Scale to MongoDB)   -To save user information and items information
 * Java Sevelet(implemented by Apache Tomcat) -To handel http request
-* [TicketMaster API](https://www.ticketmaster.com/?awtrc=true&c=SEM_TMBRAND_ggl_298560299_24300724499_ticketmaster&GCID=0&&gclid=CjwKCAjw4LfkBRBDEiwAc2DSlFCRO-3OkQ0UFchHJGLJj7_bmnE7mZ2TmkJmQ01lfIzb_K4rX5y6AxoC3uAQAvD_BwE&gclsrc=aw.ds) -Open source API which provide items information
+* [TicketMaster API](https://www.ticketmaster.com/?  awtrc=true&c=SEM_TMBRAND_ggl_298560299_24300724499_ticketmaster&GCID=0&&gclid=CjwKCAjw4LfkBRBDEiwAc2DSlFCRO-3OkQ0UFchHJGLJj7_bmnE7mZ2TmkJmQ01lfIzb_K4rX5y6AxoC3uAQAvD_BwE&gclsrc=aw.ds) -Open source API which provide items information
 
 ## Deployment
 * AWS EC2
