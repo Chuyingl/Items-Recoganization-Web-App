@@ -5,12 +5,10 @@ and items they like.
 ## Project Demo
 **You can visit this web from hear :smiley:** **[[Link]](http://52.14.59.0:8080/Jupiter/index.html)**
 
+![Items Page](https://github.com/Chuyingl/Items-Recommendation-Web/blob/master/finditems.PNG)
 
 
-
-
-
-
+![Log in Page](https://github.com/Chuyingl/Items-Recommendation-Web/blob/master/login.PNG)
 ## Develop with
 ### Front-end Design
 * HTML/CSS
