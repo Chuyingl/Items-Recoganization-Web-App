@@ -12,7 +12,7 @@ and items they like.
 
 
 ## Develop with
-### Front-End Design
+### Front-end Design
 * HTML/CSS
 * JavaScript
 ### Back-end Design
